@@ -1,10 +1,10 @@
 <!-- 최상단 배너 - 3D 효과 -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2BE2,100:FF69B4&height=300&section=header&text=안상우%20(Sangwoo%20An)&desc=Creative%20Backend%20Developer&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=40&descAlignY=65&descAlign=67&fontAlign=50&stroke=ffffff&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2BE2,100:FF69B4&height=300&section=header&text=상우%20(Sangwoo%20An)&desc=Creative%20Backend%20Developer&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=40&descAlignY=65&descAlign=67&fontAlign=50&stroke=ffffff&strokeWidth=3" width="100%"/>
 
 <!-- 타이핑 효과 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요,+안상우입니다!;백엔드+개발에+열정을+가지고+있습니다!;함께+성장하고+싶습니다!&center=true&size=30&color=ff75b5&duration=4000&pause=1000&width=800">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요,+안상우입니다!&center=true&size=30&color=ff75b5&duration=4000&pause=1000&width=800">
   </a>
 </h1>
 
