@@ -1,10 +1,10 @@
-# 안녕하세요 👋 제 이름은 [당신의 이름]입니다
+# Hello 👋 I'm Sangwoo
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
 [![Twitter: YourTwitter](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
 
 ## 🚀 소개
-저는 [직업/전공]이며, [관심 분야]에 큰 관심을 가지고 있습니다. 현재 [회사/학교]에서 [역할/전공]을 하고 있습니다.
+
 
 ## 💻 기술 스택
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
