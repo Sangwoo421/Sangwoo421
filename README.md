@@ -64,7 +64,7 @@
 </p>
 
 <!-- 화려한 기술 스택 섹션 -->
-<h2 align="center">🛠️ 기술 스택 & 전문 분야</h2>
+<h2 align="center">🛠️ STACK</h2>
 <div align="center">
   <!-- 메인 기술 섹션 -->
   <table>
@@ -72,19 +72,19 @@
       <td valign="top" width="33%">
         <h3 align="center">💼 백엔드</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,django,flask,go,rust,php,laravel,dotnet&perline=4" />
+          <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,django,flask&perline=4" />
         </div>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">🗄️ 데이터베이스</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,cassandra,dynamodb,firebase&perline=4" />
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=4" />
         </div>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">☁️ 클라우드 & DevOps</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,terraform&perline=4" />
+          <img src="https://skillicons.dev/icons?i=aws,docker&perline=4" />
         </div>
       </td>
     </tr>
@@ -96,23 +96,17 @@
       <td valign="top" width="50%">
         <h3 align="center">🌐 프론트엔드</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,bootstrap&perline=5" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap&perline=5" />
         </div>
       </td>
       <td valign="top" width="50%">
         <h3 align="center">🔧 도구 & 기타</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,bash,vim,vscode,idea,postman,figma&perline=5" />
+          <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&perline=5" />
         </div>
       </td>
     </tr>
   </table>
-</div>
-
-<!-- 3D 스네이크 게임 - 커밋 활동 시각화 -->
-<div align="center">
-  <h2>🐍 내 커밋 기록으로 만든 스네이크 게임</h2>
-  <img alt="github contribution snake animation" src="https://github.com/Sangwoo421/Sangwoo421/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 <!-- 반짝이는 구분선 -->
@@ -120,7 +114,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-<!-- 초화려한 GitHub 통계 -->
+<!-- GitHub 통계 -->
 <h2 align="center">📊 GitHub 통계 & 업적</h2>
 
 <div align="center">
@@ -174,15 +168,15 @@
 <h2 align="center">📝 최근 블로그 포스트</h2>
 <div align="center">
   <a href="https://yourblog.com/post1">
-    <img src="https://img.shields.io/badge/🚀_분산_시스템의_확장성_패턴-12100E?style=for-the-badge" alt="Blog Post"/>
+    <img src="https://img.shields.io/badge/🚀-12100E?style=for-the-badge" alt="Blog Post"/>
   </a>
   <br/>
   <a href="https://yourblog.com/post2">
-    <img src="https://img.shields.io/badge/☁️_클라우드_네이티브_애플리케이션_설계-12100E?style=for-the-badge" alt="Blog Post"/>
+    <img src="https://img.shields.io/badge/☁️-12100E?style=for-the-badge" alt="Blog Post"/>
   </a>
   <br/>
   <a href="https://yourblog.com/post3">
-    <img src="https://img.shields.io/badge/🔐_마이크로서비스_보안_전략-12100E?style=for-the-badge" alt="Blog Post"/>
+    <img src="https://img.shields.io/badge/🔐-12100E?style=for-the-badge" alt="Blog Post"/>
   </a>
 </div>
 
@@ -198,14 +192,6 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="300" />
 </div>
 
-<!-- 후원 섹션 -->
-<h2 align="center">☕ 후원하기</h2>
-<div align="center">
-  <a href="https://ko-fi.com/yourprofile">
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="buymeacoffee" />
-  </a>
-</div>
-
 <!-- 방문자 메시지 섹션 -->
 <h2 align="center">📬 방명록 남기기</h2>
 <div align="center">
@@ -215,7 +201,7 @@
 </div>
 
 <!-- 3D 효과가 있는 아래 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,15,18,20,21&reversal=true&section=footer&text=함께%20성장하는%20개발자&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,15,18,20,21&reversal=true&section=footer&text=성장하는%20개발자&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 <!-- 히든 스페셜 메시지 -->
 <!--
