@@ -1,5 +1,5 @@
 <!-- 최상단 배너 - 3D 효과 -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2BE2,100:FF69B4&height=300&section=header&text=상우%20(Sangwoo%20An)&desc=Creative%20Backend%20Developer&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=40&descAlignY=65&descAlign=67&fontAlign=50&stroke=ffffff&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2BE2,100:FF69B4&height=300&section=header&text=상우%20(Sangwoo%20An)&desc=Developer&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=40&descAlignY=65&descAlign=67&fontAlign=50&stroke=ffffff&strokeWidth=3" width="100%"/>
 
 <!-- 타이핑 효과 -->
 <h1 align="center">
